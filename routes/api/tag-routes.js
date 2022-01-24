@@ -26,7 +26,7 @@ router.get('/:id', (req, res) => {
       id: req.params.id
     },
     include: {
-      modle: Product
+      model: Product
     }
   })
   .then(dbTagData => res.json(dbTagData))

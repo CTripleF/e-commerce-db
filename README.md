@@ -1,4 +1,4 @@
-#E Commerce DB
+# E Commerce DB
 
 ## Description
 this application displays proficiency with buildind API routes via models and sequelizer

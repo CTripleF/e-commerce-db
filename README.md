@@ -1,5 +1,3 @@
-# team-profile-gen
-
 #E Commerce DB
 
 ## Description
